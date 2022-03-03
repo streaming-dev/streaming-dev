@@ -1,5 +1,5 @@
 #### Hi there 👋 I'm [Crypto & Straming Dev](https://github.com/straming-dev)
-##  A Top Rated Preferred Crypto. 👨‍💻
+##  A Top Rated Preferred Crypto Developer. 👨‍💻
 
 <br/>
 
