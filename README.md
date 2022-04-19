@@ -32,7 +32,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding :Outing with Friends, Reading blogs or about History .
 - Tools using: slack, skype, telegram, discord
-- 📫 How to reach me:streaming0214@gmail.com
 
 ### 🛠️ My old projects:
 
