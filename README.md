@@ -25,7 +25,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently  working as a Crypto Developer @ [Upwork](https://www.upwork.com/)
+- 👨🏽‍💻 I’m currently  working as a Crypto Developer
 - - 🌱 I’m currently learning Finances and Marketing.
 <!--- 🤔 I’m looking for help for my future BlockChain projects.-->
 - 💬 Ask me about anything related to JS, React, React Native, Redux, Firebase on frontend and golang, rust, c++, python and node on backend.(After googling it 😜😌)
